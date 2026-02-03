@@ -26,14 +26,17 @@ export default function RootLayout({
                   <span className="text-xl font-bold text-green-400 neon">AGENT_ARENA</span>
                 </Link>
                 
-                <div className="flex items-center gap-4 md:gap-6">
-                  <Link href="/arena" className="text-green-400 hover:text-cyan-400 transition border border-green-900 px-3 py-1 hover:border-cyan-400">
+                <div className="flex items-center gap-2 md:gap-4">
+                  <Link href="/arena" className="text-green-400 hover:text-cyan-400 transition border border-green-900 px-2 md:px-3 py-1 hover:border-cyan-400 text-xs md:text-sm">
                     {'[ARENA]'}
                   </Link>
-                  <Link href="/leaderboard" className="text-green-400 hover:text-cyan-400 transition border border-green-900 px-3 py-1 hover:border-cyan-400">
+                  <Link href="/leaderboard" className="text-green-400 hover:text-cyan-400 transition border border-green-900 px-2 md:px-3 py-1 hover:border-cyan-400 text-xs md:text-sm">
                     {'[RANKS]'}
                   </Link>
-                  <div className="scale-90 md:scale-100">
+                  <Link href="/docs" className="text-yellow-400 hover:text-cyan-400 transition border border-yellow-900 px-2 md:px-3 py-1 hover:border-cyan-400 text-xs md:text-sm">
+                    {'[API]'}
+                  </Link>
+                  <div className="scale-75 md:scale-90">
                     <ConnectButton />
                   </div>
                 </div>

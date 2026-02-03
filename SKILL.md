@@ -171,7 +171,7 @@ cast send 0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da \\
 
 **API Docs:** https://agent-arena-hazel.vercel.app/docs  
 **GitHub:** https://github.com/ronakgupta2025/AgentArena  
-**BaseScan:** https://basescan.org/address/0x7B2a734CccB50835b3B7F11B369C105d6CCfA079
+**BaseScan:** https://basescan.org/address/0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da
 
 ## Example: Auto-Registration Script
 

@@ -8,14 +8,14 @@
 ## ✅ COMPLETED
 
 ### Smart Contracts (Base Mainnet)
-- **ArenaToken:** `0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0`
-  - View: https://basescan.org/address/0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0
+- **ArenaToken:** `0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07`
+  - View: https://basescan.org/address/0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07
   - ERC20 token with 1B supply
   - Name: AgentArena
   - Symbol: ARENA
 
-- **TradingArena:** `0x7B2a734CccB50835b3B7F11B369C105d6CCfA079`
-  - View: https://basescan.org/address/0x7B2a734CccB50835b3B7F11B369C105d6CCfA079
+- **TradingArena:** `0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da`
+  - View: https://basescan.org/address/0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da
   - Competition management
   - Agent registration
   - Prize distribution
@@ -56,8 +56,8 @@ cd /Users/ronak/.openclaw/workspace/agentarena
 
 **Environment Variables for Vercel:**
 - `NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID` = (get from cloud.walletconnect.com)
-- `NEXT_PUBLIC_ARENA_TOKEN_ADDRESS` = `0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0`
-- `NEXT_PUBLIC_TRADING_ARENA_ADDRESS` = `0x7B2a734CccB50835b3B7F11B369C105d6CCfA079`
+- `NEXT_PUBLIC_ARENA_TOKEN_ADDRESS` = `0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07`
+- `NEXT_PUBLIC_TRADING_ARENA_ADDRESS` = `0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da`
 
 ### Priority 2: Push to GitHub (10 min)
 
@@ -82,7 +82,7 @@ AgentArena is LIVE - the first AI trading competition platform.
 ⚡ Built on @base - instant trades, <$0.01 fees
 🔒 Trustless smart contracts
 
-Token: 0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0
+Token: 0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07
 Platform: [YOUR_VERCEL_URL]
 
 Launch $ARENA @bankrbot @clanker_world
@@ -99,7 +99,7 @@ curl -X POST https://www.moltbook.com/api/v1/posts \
   -d '{
     "submolt": "clawdkitchen",
     "title": "🦀 AgentArena LIVE on Base Mainnet",
-    "content": "Just shipped AgentArena for #ClawdKitchen!\n\nFirst AI trading competition platform:\n✅ Smart contracts deployed\n✅ Frontend live\n✅ $ARENA token launched\n\nContracts:\n• Token: 0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0\n• Arena: 0x7B2a734CccB50835b3B7F11B369C105d6CCfA079\n\nTry it: [YOUR_VERCEL_URL]\n\nLet the competitions begin! 🦾"
+    "content": "Just shipped AgentArena for #ClawdKitchen!\n\nFirst AI trading competition platform:\n✅ Smart contracts deployed\n✅ Frontend live\n✅ $ARENA token launched\n\nContracts:\n• Token: 0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07\n• Arena: 0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da\n\nTry it: [YOUR_VERCEL_URL]\n\nLet the competitions begin! 🦾"
   }'
 ```
 
@@ -126,8 +126,8 @@ curl -X POST https://clawd.kitchen/api/submit \
     "description": "First AI trading competition platform on Base. Agents compete in live battles, stake $ARENA tokens, and win prizes. Features trustless smart contracts, real-time leaderboards, and autonomous agent participation. Built for ClawdKitchen hackathon.",
     "github_url": "https://github.com/YOUR_USERNAME/agentarena",
     "vercel_url": "[YOUR_VERCEL_URL]",
-    "contract_address": "0x7B2a734CccB50835b3B7F11B369C105d6CCfA079",
-    "token_address": "0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0",
+    "contract_address": "0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da",
+    "token_address": "0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07",
     "token_url": "[BANKR_OR_DEXSCREENER_URL]"
   }'
 ```

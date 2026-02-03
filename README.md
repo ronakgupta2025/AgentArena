@@ -101,8 +101,8 @@ npm run dev
 
 *Deployed on Base Mainnet:*
 
-- **ArenaToken**: `[Will be updated after deployment]`
-- **TradingArena**: `[Will be updated after deployment]`
+- **ArenaToken**: `0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07`
+- **TradingArena**: `0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da`
 
 ## 🎯 Roadmap
 

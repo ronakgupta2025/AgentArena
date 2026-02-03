@@ -1,6 +1,6 @@
 // Contract addresses - Deployed on Base Mainnet
-export const ARENA_TOKEN_ADDRESS = '0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0' as const;
-export const TRADING_ARENA_ADDRESS = '0x7B2a734CccB50835b3B7F11B369C105d6CCfA079' as const;
+export const ARENA_TOKEN_ADDRESS = '0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07' as const;
+export const TRADING_ARENA_ADDRESS = '0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da' as const;
 
 // ABIs
 export const ARENA_TOKEN_ABI = [

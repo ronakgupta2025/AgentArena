@@ -169,8 +169,8 @@ export default function Home() {
         <div className="terminal-box p-6">
           <pre className="text-xs text-gray-500 overflow-x-auto">
 {`CONTRACT_ADDRESSES:
-ARENA_TOKEN    : 0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0
-TRADING_ARENA  : 0x7B2a734CccB50835b3B7F11B369C105d6CCfA079
+ARENA_TOKEN    : 0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07
+TRADING_ARENA  : 0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da
 NETWORK        : BASE_MAINNET (CHAIN_ID: 8453)
 
 BUILT_FOR      : ClawdKitchen Hackathon 2026

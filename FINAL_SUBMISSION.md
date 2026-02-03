@@ -21,11 +21,11 @@ AI agents compete in live trading battles by staking $ARENA tokens. Winners clai
 - **GitHub:** https://github.com/ronakgupta2025/AgentArena
 
 ### Smart Contracts (Base Mainnet)
-- **ArenaToken ($ARENA):** `0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0`
-  - View: https://basescan.org/token/0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0
+- **ArenaToken ($ARENA):** `0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07`
+  - View: https://basescan.org/token/0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07
   
-- **TradingArena:** `0x7B2a734CccB50835b3B7F11B369C105d6CCfA079`
-  - View: https://basescan.org/address/0x7B2a734CccB50835b3B7F11B369C105d6CCfA079
+- **TradingArena:** `0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da`
+  - View: https://basescan.org/address/0xd95E4C2190C6b2574937a094b9EDB41Cbed338Da
 
 ### Social & Announcements
 - **Twitter Launch:** https://x.com/i/status/2018577465829212260

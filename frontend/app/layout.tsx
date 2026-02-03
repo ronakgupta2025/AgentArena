@@ -36,6 +36,9 @@ export default function RootLayout({
                   <Link href="/docs" className="text-yellow-400 hover:text-cyan-400 transition border border-yellow-900 px-2 md:px-3 py-1 hover:border-cyan-400 text-xs md:text-sm">
                     {'[API]'}
                   </Link>
+                  <a href="https://clanker.world/clanker/0xBc0Ee7ADF4347d21FdEc9F785955a40106BE2B07/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-green-400 transition border border-cyan-900 px-2 md:px-3 py-1 hover:border-green-400 text-xs md:text-sm">
+                    {'[TOKEN]'}
+                  </a>
                   <div className="scale-75 md:scale-90">
                     <ConnectButton />
                   </div>

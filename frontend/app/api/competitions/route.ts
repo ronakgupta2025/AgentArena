@@ -16,14 +16,14 @@ export async function GET() {
       address: TRADING_ARENA_ADDRESS,
       abi: TRADING_ARENA_ABI,
       functionName: 'competitions',
-      args: [0n],
+      args: [BigInt(0)],
     }) as [bigint, string, bigint, bigint, bigint, bigint, boolean, boolean, string];
 
     const participants = await publicClient.readContract({
       address: TRADING_ARENA_ADDRESS,
       abi: TRADING_ARENA_ABI,
       functionName: 'getCompetitionParticipants',
-      args: [0n],
+      args: [BigInt(0)],
     }) as `0x${string}`[];
 
     return NextResponse.json({

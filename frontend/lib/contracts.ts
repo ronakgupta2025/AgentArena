@@ -1,6 +1,6 @@
-// Contract addresses - UPDATE AFTER DEPLOYMENT
-export const ARENA_TOKEN_ADDRESS = '0x...' as const;
-export const TRADING_ARENA_ADDRESS = '0x...' as const;
+// Contract addresses - Deployed on Base Mainnet
+export const ARENA_TOKEN_ADDRESS = '0x2E94A72e7b97d7527192E238A7d4e50F9FAA37e0' as const;
+export const TRADING_ARENA_ADDRESS = '0x7B2a734CccB50835b3B7F11B369C105d6CCfA079' as const;
 
 // ABIs
 export const ARENA_TOKEN_ABI = [
